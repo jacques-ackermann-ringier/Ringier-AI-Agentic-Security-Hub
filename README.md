@@ -140,12 +140,12 @@ git --version  # Should show git version 2.x.x or higher
 
 3. Clone the repository:
    ```sh
-   git clone https://github.com/jacquesackermann/ringier-ai-agentic-security.git
+   git clone https://github.com/jacques-ackermann-ringier/Ringier-AI-Agentic-Security-Hub.git
    ```
 
 4. Navigate into the project directory:
    ```sh
-   cd ringier-ai-agentic-security
+   cd Ringier-AI-Agentic-Security-Hub
    ```
 
 ### Step 4: Install Project Dependencies
@@ -373,7 +373,7 @@ This project is pre-configured for GitHub Pages deployment with automated CI/CD 
      - Deploy to GitHub Pages
 
 4. **Access your site:**
-   - Project page: `https://yourusername.github.io/ringier-ai-agentic-security/`
+   - Project page: `https://jacques-ackermann-ringier.github.io/Ringier-AI-Agentic-Security-Hub/`
    - Or custom domain: `https://your-custom-domain.com/`
 
 ### Manual Deployment

@@ -5,7 +5,7 @@
   "description": "Ringier AI Agentic Security - Interactive guide for securing AI agentic applications using OWASP best practices",
   "license": "Apache-2.0",
   "type": "module",
-  "homepage": "https://ringier-ai-agentic-security.info/",
+  "homepage": "https://jacques-ackermann-ringier.github.io/Ringier-AI-Agentic-Security-Hub/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

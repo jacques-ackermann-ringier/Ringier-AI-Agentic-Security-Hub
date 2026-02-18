@@ -14,7 +14,7 @@ export default defineConfig(() => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: "/ringier-ai-agentic-security/",  // Change this to match your repo name, or "/" for custom domain
+  base: "/Ringier-AI-Agentic-Security-Hub/",  // Change this to match your repo name, or "/" for custom domain
   build: {
     outDir: "docs",
   },
